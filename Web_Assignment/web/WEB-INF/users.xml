@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users>
+    <user>
+        <ID>1</ID>
+        <name>nhan</name>
+        <email>nhan123@gmail.com</email>
+        <password>nhocvipnhat123</password>
+        <gender>Male</gender>
+        <dob>2/2/2012</dob>
+    </user>
+</users>

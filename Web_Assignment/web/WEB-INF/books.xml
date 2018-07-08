@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    
+    <book>
+        <ID>1</ID>
+        <title>Educational Psychology</title>
+        <author>Anita Woolfolk, Kay Margetts</author>
+        <category>Psychology</category>
+        <ISBN>9781486019854</ISBN>
+        <edition>4</edition>
+        <year>2015</year>
+        <publishername>Pearson Education Australia</publishername>
+        <status>Available</status>
+    </book>
+    
+    <book>
+        <ID>2</ID>
+        <title>Algebra 1 Common Core</title>
+        <author>Charles Hall, Basia Kennedy</author>
+        <category>Mathematics</category>
+        <ISBN>9780133185485</ISBN>
+        <edition>1</edition>
+        <year>2011</year>
+        <publishername>Pearson Education</publishername>
+        <status>Not available</status>
+    </book>
+    
+    <book>
+        <ID>3</ID>
+        <title>Physical Science: Concepts in Action</title>
+        <author>Michael Wysession, David V. Frank, Sophia Yancopoulos</author>
+        <category>Physics</category>
+        <ISBN>9780133628166</ISBN>
+        <edition>1</edition>
+        <year>2004</year>
+        <publishername>PRENTICE HALL</publishername>
+        <status>Available</status>
+    </book>
+    
+    <book>
+        <ID>4</ID>
+        <title>As I Lay Dying</title>
+        <author>William Faulkner</author>
+        <category>English</category>
+        <ISBN>9780679732259</ISBN>
+        <edition>1</edition>
+        <year>1991</year>
+        <publishername>Vintage</publishername>
+        <status>Available</status>
+    </book>
+    
+</books>

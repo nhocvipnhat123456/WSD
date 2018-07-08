@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reservations>
+    
+    <reservation>
+        <title>Algebra 1 Common Core</title>
+        <status>Reserved</status>
+        <username>nhan</username>
+        <useremail>nhan123@gmail.com</useremail>
+    </reservation>
+    
+</reservations>
